@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """ This module implements gift-wrapping convex hull algorithm.
 
 The module helps to find smallest convex polygon that contains
