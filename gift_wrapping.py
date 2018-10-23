@@ -34,12 +34,8 @@ def convex_hull(points):
             convex.append(p)
 
 
-""" 
-Orientation function for finding notation of the points.
-The formula below is come from slope of the points.
-"""
-
-
+# Orientation function for finding notation of the points.
+# The formula below is come from slope of the points.
 def cross(o, a, b):
     return (a[0]-o[0]) * (b[1]-o[1]) - (a[1]-o[1]) * (b[0]-o[0])
 
