@@ -17,7 +17,8 @@ Examples:
 
 
      run unit tests of this module by running :
-     $ python -m unittest test.py
+
+        $ python -m unittest test.py
 """
 
 
