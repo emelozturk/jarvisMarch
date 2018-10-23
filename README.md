@@ -12,3 +12,6 @@ at counterclockwise orientation.
 
 * [Geeksforgeeks](https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/)
 * [Wikipedia](http://www.wikizeroo.com/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvR2lmdF93cmFwcGluZ19hbGdvcml0aG0)
+
+### Run Test
+> python -m unittest test.py
